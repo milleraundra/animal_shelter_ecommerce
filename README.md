@@ -1,4 +1,4 @@
-# E-commerce
+# Smuggle Pets - Ember
 
 This is a sarcastic application that allows users to buy a new pet off the black market. This application is created in Ember and utilizes computed properties, helpers, and a service to manage a user's shopping crate.
 
