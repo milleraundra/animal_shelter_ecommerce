@@ -1,7 +1,16 @@
 # E-commerce
 
-This README outlines the details of collaborating on this Ember application.
-A short introduction of this app could easily go here.
+This is a sarcastic application that allows users to buy a new pet off the black market. This application is created in Ember and utilizes computed properties, helpers, and a service to manage a user's shopping crate.
+
+#### By Aundra Miller
+
+## Technologies Used
+* Ember
+* JavaScript
+* Node / NPM
+
+## Support and Contact Details
+For bug fixes or updates, submit a pull reuest directly to me at milleraundra on GitHub. To contact me personally, email me at miller.aundra@gmail.com
 
 ## Prerequisites
 
@@ -25,29 +34,7 @@ You will need the following things properly installed on your computer.
 * `ember server`
 * Visit your app at [http://localhost:4200](http://localhost:4200).
 
-### Code Generators
+## License
+The MIT License (MIT)
 
-Make use of the many generators for code, try `ember help generate` for more details
-
-### Running Tests
-
-* `ember test`
-* `ember test --server`
-
-### Building
-
-* `ember build` (development)
-* `ember build --environment production` (production)
-
-### Deploying
-
-Specify what it takes to deploy your app.
-
-## Further Reading / Useful Links
-
-* [ember.js](http://emberjs.com/)
-* [ember-cli](http://ember-cli.com/)
-* Development Browser Extensions
-  * [ember inspector for chrome](https://chrome.google.com/webstore/detail/ember-inspector/bmdblncegkenkacieihfhpjfppoconhi)
-  * [ember inspector for firefox](https://addons.mozilla.org/en-US/firefox/addon/ember-inspector/)
-
+Copyright(c) 2016 Aundra Miller
